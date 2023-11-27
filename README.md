@@ -1,1 +1,3 @@
-# alx-higher_level_programming
+# Python Programming
+This is the start of learning python.
+The main reason why I joined alx.
